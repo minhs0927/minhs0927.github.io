@@ -17,6 +17,6 @@ intro:
 
 ## Title
 
-Body
+Hello my name is Heesung Min
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
