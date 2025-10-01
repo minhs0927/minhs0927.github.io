@@ -15,7 +15,7 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## Title1
 
 Hello my name is Heesung Min
 
